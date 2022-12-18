@@ -1,1 +1,1 @@
-Hello, Calon Frontend Developer!
+Latihan
